@@ -19,8 +19,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "ext-trader": "*",
-        "illuminate/support": "^5.5"
+        "ext-trader": "*"
     },
     "require-dev": {
         "orchestra/testbench": "~3.5|~3.6",
