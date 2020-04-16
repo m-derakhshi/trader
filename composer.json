@@ -1,5 +1,5 @@
 {
-    "name": "laratrade/trader",
+    "name": "mderakhshi/trader",
     "type": "library",
     "description": "Laravel package for trader extension interface.",
     "keywords": [
